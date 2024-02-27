@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327758991149",
+    "project_id": "anaam-6cd94",
+    "storage_bucket": "anaam-6cd94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327758991149:android:27579ccad0f8fa8bd50da4",
+        "android_client_info": {
+          "package_name": "com.en3am.en3am_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327758991149-cuh3fs05v46kl5dm0vr9ievj80rhuc4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI0PBU3fzVf25EfbW-NgVhgMQuOcXYkRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327758991149-cuh3fs05v46kl5dm0vr9ievj80rhuc4d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
